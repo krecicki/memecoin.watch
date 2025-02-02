@@ -2,7 +2,7 @@
 The official repository for memecoin.watch on the Solana network
 
 # memecoin.watch User Guide  
-![Banner](https://via.placeholder.com/800x200.png?text=memecoin.watch+Trading+Tools)  
+![Banner]([https://via.placeholder.com/800x200.png?text=memecoin.watch+Trading+Tools](https://github.com/user-attachments/assets/0f402d29-2c2e-48c2-8d4b-04c568763bac))  
 *Three scanners. Zero HTML. Pure markdown.*
 
 ---
