@@ -9,7 +9,6 @@ You can trade directly from alerts on our website (powered by Jupiter)
 
 # memecoin.watch User Guide
 ![memecoin scanner](https://github.com/user-attachments/assets/b3a83299-736f-4ff4-8ba6-02cf8206ae2c)
-![trade meme coins](https://github.com/user-attachments/assets/a5dd1501-dd8d-42de-8ffd-65cc4035667f)
 
 ---
 ## Table of Contents  
@@ -100,6 +99,8 @@ Last: 22.27 SOL
    - Volume spikes
 
 ---
+![trade meme coins](https://github.com/user-attachments/assets/a5dd1501-dd8d-42de-8ffd-65cc4035667f)
+
 ## Signal Strategies
 Each scanner provides different types of signals. These scanners operate independently and cannot be correlated.
 
