@@ -35,6 +35,10 @@ You can trade directly from alerts on our website (powered by Jupiter)
 ## Early Warning Scanner
 This scanner independently looks for specific patterns before major moves.
 
+The Raydium Early Scanner is a specialized monitoring system designed to catch emerging memecoin momentum on Solana before major price movements occur. By analyzing trading patterns across Raydium's pools, the scanner identifies legitimate buying pressure through a sophisticated scoring system that evaluates consecutive buys, volume ratios, and price step patterns. The system filters out common manipulation attempts by checking wallet age, bundle patterns, and token properties.
+
+What sets this scanner apart is its focus on frozen tokens and legitimate wallet activity, helping separate real retail buying momentum from typical bot manipulation. Using expensive highspeed RPC endpoints & WSS, the system processes recent transactions in real-time while maintaining careful rate limiting to ensure consistent monitoring. Key metrics like buy ratios, consecutive order patterns, and price step analysis are combined into a weighted scoring system that has been trained on millions of historical memecoin trades to identify genuine pump setups before they become obvious to the broader market.
+
 **Key Features:**
 - Score calculation (0-10) based on multiple indicators
 - Buy sequence analysis
