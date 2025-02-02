@@ -99,7 +99,6 @@ Last: 22.27 SOL
    - Volume spikes
 
 ---
-![trade meme coins](https://github.com/user-attachments/assets/a5dd1501-dd8d-42de-8ffd-65cc4035667f)
 
 ## Signal Strategies
 Each scanner provides different types of signals. These scanners operate independently and cannot be correlated.
@@ -140,14 +139,15 @@ Frequency: Regular buys
   - Random size distribution
 
 ---
-## Safety Systems
+## Safety Systems Built in to Filter Out Tokens Automatically
 **Auto-Protection:**
-- ✅ Token freeze verification
+- ✅ Token freeze & mint verification
 - 🕵️ Wallet age analysis (<24h)
-- 🤖 Bot pattern detection
 - 📦 Bundle transaction flagging
 
 ---
+![trade meme coins](https://github.com/user-attachments/assets/a5dd1501-dd8d-42de-8ffd-65cc4035667f)
+
 ## Trading Tools
 **Jupiter Integration:**
 1. One-click trading from alerts
