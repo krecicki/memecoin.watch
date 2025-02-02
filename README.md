@@ -1,8 +1,10 @@
 # memecoin.watch
 The official repository for memecoin.watch on the Solana network
 
-# memecoin.watch User Guide  
-![Banner]([https://via.placeholder.com/800x200.png?text=memecoin.watch+Trading+Tools](https://github.com/user-attachments/assets/0f402d29-2c2e-48c2-8d4b-04c568763bac))  
+# memecoin.watch User Guide
+<img width="700" alt="memecoin scanner" src="https://github.com/user-attachments/assets/b3a83299-736f-4ff4-8ba6-02cf8206ae2c" />
+<img width="700" alt="trade meme coins" src="https://github.com/user-attachments/assets/a5dd1501-dd8d-42de-8ffd-65cc4035667f" />
+
 *Three scanners. Zero HTML. Pure markdown.*
 
 ---
