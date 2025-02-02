@@ -3,7 +3,7 @@ The official repository for memecoin.watch on the Solana network
 
 "Why use bull-x if those scanners are free on ape.pro? Why is memecoin.watch different or worth my money?"
 
-At memecoin.watch we built three AI scanners: one watches every large Raydium trade (back run trades, since oyu cannot fornt run on Solana their is no meme pool), one analyzes buying volume patterns (based on people building posistions high on the buy side), and one catches early moves before they pump (this is possible by using GenAI to train models to identidy imminent pumps). Other serviuce bet on new coins, recently migrated coins, and about to migrate coins. We trained AI on millions of transaction logs to spot real pumps before they're obvious - not just scanner filters. You saw what bull-x and ape.pro both missed. Ready to see the next ones before they do?
+At memecoin.watch we built three AI scanners: one watches every large Raydium trade (back run trades, since you cannot front run on Solana, there is no meme pool), one analyzes buying volume patterns (based on people building positions high on the buy side), and one catches early moves before they pump (this is possible by using GenAI to train models to identify imminent pumps). Other services bet on new coins, recently migrated coins, and about-to-migrate coins. We trained AI on millions of transaction logs to spot real pumps before they're obvious - not just scanner filters. You saw what bull-x and ape.pro both missed. Ready to see the next ones before they do?
 
 You can trade directly from alerts on our website (powered by Jupiter)
 
