@@ -60,6 +60,10 @@ Patterns: Consecutive buys, 2 price steps
 ## Pump Detector
 Independent monitor for volume acceleration and buying pressure.
 
+The Raydium Detector Scanner is a high-performance monitoring system designed to catch significant memecoin movements on Solana by analyzing Raydium DEX activity. Using real-time transaction monitoring, the scanner tracks buying patterns, volume spikes, and trade frequency across a 5-minute window to identify genuine buying pressure. The system implements sophisticated rate limiting and error handling to maintain consistent connection with Solana RPC endpoints while processing trade data.
+
+What sets this detector apart is its focus on real activity over noise. By enforcing minimum SOL thresholds (0.1 SOL) and requiring multiple confirmatory signals within tight time windows, the system filters out the majority of false positives that plague typical scanners. The detector maintains an efficient state management system through its token_data structure, tracking key metrics like buy patterns and volume while implementing automatic cleanup of stale data. Each alert provides comprehensive trade data including volume statistics, buy counts, and average trade sizes to help users quickly evaluate emerging opportunities.
+
 ### Heat Formula  
 `Heat = (1min_volume / 5min_volume) * 100`
 
