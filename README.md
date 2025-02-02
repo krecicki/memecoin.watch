@@ -88,6 +88,7 @@ Buy/Sell: 83.93x
 Independently tracks significant Raydium transactions.
 
 You can back run big players using the Raydium Big Swap Scanner is your early warning system for significant Solana memecoin moves, focusing on big swap activity through Raydium. The scanner tracks real-time trading and alerts you when meaningful volume starts flowing into a token - it monitors 5-minute windows for sustained buying pressure and requires multiple buys totaling over 3 SOL to trigger alerts, helping you spot real momentum while filtering out the noise of small trades under 0.1 SOL.
+
 Before any alert hits your screen, the scanner verifies that the token's mint and freeze authorities are disabled (a critical safety check), and provides you with essential trade data including the 5-minute volume, number of buys, average buy size, and latest trade amount. By focusing purely on big swap detection and key safety verifications, you get clean, actionable alerts right when serious buying starts - giving you the early edge in catching legitimate momentum before the crowd.
 
 **What You See:**
